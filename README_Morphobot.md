@@ -1,4 +1,4 @@
-<img width="1555" height="821" alt="WhatsApp Image 2026-08-30 at 00 00 28" src="https://github.com/user-attachments/assets/71c4bc31-0bbf-4efd-a893-e356acd725e6" /># Morphobot
+# Morphobot
 
 **Autonomous Hybrid UGV-UAV Robotic Platform**
 
@@ -166,7 +166,7 @@ The analysis is used mainly as a design-validation tool to identify weak areas a
 <img width="1600" height="723" alt="WhatsApp Image 2026-08-30 at 00 16 29" src="https://github.com/user-attachments/assets/6accd29d-dfec-49b0-a5e9-8e13ca368e6c" />
 
 <img width="1600" height="712" alt="WhatsApp Image 2026-08-30 at 00 16 04" src="https://github.com/user-attachments/assets/a186e861-19c2-46a9-87cf-30f450c438b5" />
-
+<img width="1555" height="821" alt="WhatsApp Image 2026-08-30 at 00 00 28" src="https://github.com/user-attachments/assets/71c4bc31-0bbf-4efd-a893-e356acd725e6" />
 ## 7. Ground Mobility System
 
 
