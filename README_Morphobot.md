@@ -1,4 +1,4 @@
-# Morphobot
+<img width="1555" height="821" alt="WhatsApp Image 2026-08-30 at 00 00 28" src="https://github.com/user-attachments/assets/71c4bc31-0bbf-4efd-a893-e356acd725e6" /># Morphobot
 
 **Autonomous Hybrid UGV-UAV Robotic Platform**
 
@@ -131,11 +131,14 @@ The goal is to validate fit, stiffness, backlash, assembly sequence, and motor/s
 
 ### Prototype Images
 
-> **[PLACE FIRST PRINTED LEG IMAGE HERE]**
+> <img width="1458" height="754" alt="WhatsApp Image 2026-09-01 at 22 20 44" src="https://github.com/user-attachments/assets/e5537ae6-b7c1-4ee7-a932-c421ec23cd6c" />
 
-> **[PLACE WHEEL / HUB PROTOTYPE IMAGE HERE]**
 
-> **[PLACE ASSEMBLED CORNER MODULE IMAGE HERE]**
+> <img width="1040" height="653" alt="WhatsApp Image 2026-09-01 at 22 19 52" src="https://github.com/user-attachments/assets/d8acfb35-2a3a-4114-af10-981b3e4f8bc8" />
+
+
+> <img width="845" height="765" alt="WhatsApp Image 2026-09-02 at 00 30 06" src="https://github.com/user-attachments/assets/5834e16c-6566-4a90-b8f5-c3275a1e3488" />
+
 
 ---
 
@@ -157,15 +160,15 @@ The analysis is used mainly as a design-validation tool to identify weak areas a
 
 ### ANSYS Results
 
-> **[PLACE LEG FEA IMAGE HERE]**
+> <img width="1600" height="666" alt="WhatsApp Image 2026-08-30 at 00 01 06" src="https://github.com/user-attachments/assets/ed0bf18b-d3c4-4c1c-99df-c063fcf8f0bc" />
 
-> **[PLACE CHASSIS FEA IMAGE HERE]**
 
-> **[PLACE DEFORMATION / VON MISES RESULT IMAGE HERE]**
+<img width="1600" height="723" alt="WhatsApp Image 2026-08-30 at 00 16 29" src="https://github.com/user-attachments/assets/6accd29d-dfec-49b0-a5e9-8e13ca368e6c" />
 
----
+<img width="1600" height="712" alt="WhatsApp Image 2026-08-30 at 00 16 04" src="https://github.com/user-attachments/assets/a186e861-19c2-46a9-87cf-30f450c438b5" />
 
 ## 7. Ground Mobility System
+
 
 Morphobot uses four geared DC motors for ground locomotion.
 
@@ -217,13 +220,6 @@ A major validation step is the **static thrust test** of the actual motor-propel
 
 The target is to maintain sufficient total thrust margin for the expected approximately 3 kg final vehicle mass.
 
-### UAV Test Images
-
-> **[PLACE BLDC / ESC TEST IMAGE HERE]**
-
-> **[PLACE THRUST TEST RIG IMAGE HERE]**
-
----
 
 ## 10. Embedded Control Architecture
 
@@ -266,13 +262,13 @@ The simulation provides a safe environment to test control logic and autonomy be
 
 ### ROS / Gazebo Images
 
-> **[PLACE GAZEBO UGV SCREENSHOT HERE]**
+> 
 
-> **[PLACE RVIZ SCREENSHOT HERE]**
+https://github.com/user-attachments/assets/f04c90f4-92b0-407d-9b01-9ad189500795
 
-> **[PLACE URDF / TF TREE IMAGE HERE]**
 
----
+
+
 
 ## 12. ROS 2 Ground Navigation Pipeline
 
@@ -484,23 +480,6 @@ Future extensions may include:
 
 > **[PLACE HERO IMAGE / RENDER HERE]**
 
-### Mechanical Prototype
-
-> **[PLACE PROTOTYPE IMAGE HERE]**
-
-### Gazebo Simulation
-
-> **[PLACE SIMULATION IMAGE HERE]**
-
-### ANSYS Analysis
-
-> **[PLACE ANSYS IMAGE HERE]**
-
-### Electronics / Wiring
-
-> **[PLACE ELECTRONICS IMAGE HERE]**
-
----
 
 ## Author
 
